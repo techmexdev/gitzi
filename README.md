@@ -32,5 +32,5 @@ Slack notifier project for Github issues.
 
 ## Note
 
-We on Platzi using Gitzi with two big repositories, right now we don't have problems managing the same secret with both
+We on Platzi use Gitzi with two big repositories, right now we don't have problems managing the same secret with both
 repos.
